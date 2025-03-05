@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Armando-webster
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 📫 How to reach me 
-- ⚡ Fun fact: ...
-
-<!---
-Armando-webster/Armando-webster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in solve puzzles
+- 🌱 I’m currently learning system analysis and development.
+- 📫 How to reach me in: Armandowebster97@gmail.com 
