@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Armando-webster
-- 👀 I’m interested in solve puzzles
-- 🌱 I’m currently learning system analysis and development.
-- 📫 How to reach me in: Armandowebster97@gmail.com 
+🔭 FullStack Developer | TypeScript | React | Node.js |
+📫 Contato: armandowebster97@gmial.com
