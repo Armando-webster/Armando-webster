@@ -1,2 +1,2 @@
-🔭 Backend Developer | Java | React | Node.js | mySQL | Poer BI | Postman
+🔭 Backend Developer | Javascript | React | Node.js | mySQL | Power BI | Postman
 📫 Contato: armandowebster97@gmail.com | linkedin.com/in/armando-webster
